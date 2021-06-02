@@ -1,3 +1,5 @@
+# 代码复现，找REFUGE的strong baseline来varify自己的想法
+
 # RLPA
 Regression and Learning with Pixel-wise Attention for Retinal Fundus Glaucoma Segmentation and Detection
 
